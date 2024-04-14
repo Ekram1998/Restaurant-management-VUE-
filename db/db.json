@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": "b9c3",
+      "name": "Ekram Shethil",
+      "email": "ekramshethil13@gmail.com",
+      "password": "Ekram@1998"
+    },
+    {
+      "id": "fa8b",
+      "name": "Ekram Shethil",
+      "email": "ekramshethil13@gmail.com",
+      "password": "Ekram@1998"
+    },
+    {
+      "id": "0974",
+      "name": "shethil",
+      "email": "shethil@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "5934",
+      "name": "Marjuk",
+      "email": "marjuk@gmail.com",
+      "password": "123456778"
+    },
+    {
+      "id": "2ff8",
+      "name": "eeeee",
+      "email": "eee@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Kacchi Bai",
+      "address": "Chasara, Narayanganj",
+      "contact": 1517019128
+    },
+    {
+      "id": "2",
+      "name": "Kacchi Babi",
+      "address": "Chasara, Narayanganj",
+      "contact": 1517019129
+    },
+    {
+      "name": "Sultan Dine",
+      "address": "Dhaka, Bangladesh.",
+      "contact": "1712291330",
+      "id": "33a6"
+    }
+  ]
+}
